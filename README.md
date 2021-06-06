@@ -5,7 +5,7 @@ Federated Learning (FL) is a distributed machine learning process in which each 
 Setting up such a federated learning system requires setting up a communication infrastructure, converting machine learning algorithms to federated settings and in some cases knowing about the intricacies of security and privacy enabling techniques such as differential privacy and multi-party computation.
 
 <h3>Pre-Requisite</h3>
-<h6>pip install --upgrade tensorflow-federated<\h6>
+<h6>pip install --upgrade tensorflow-federated</h6>
     
 <h2>Federated Learning (FL)</h2> 
     
