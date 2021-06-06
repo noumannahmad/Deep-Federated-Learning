@@ -21,7 +21,7 @@ In the following cells, we set up each of the components of a Federated Learning
   
  <img width="937" alt="FL_Network" src="https://user-images.githubusercontent.com/43134572/120935769-c3546880-c71d-11eb-8c8d-b260e9437fac.png">
 
-<h2>Digit Recognition<h2>
+<h2>Digit Recognition</h2>
     
 ![MnistExamples](https://user-images.githubusercontent.com/43134572/120935899-5beae880-c71e-11eb-9b04-e44eec63f5c6.png)
 
@@ -33,7 +33,7 @@ Next we pass the configuration parameters set in the previous cell to instantiat
 Starting Parties
 Now that we have Aggregator running, next we go to Parties' notebooks (keras_classifier_p0.ipynb and keras_classifier_p1.ipynb) to start and register them with the Aggregator. Once all the parties are done with registration, we will move to next step to start training.
 
-<h3>Training and Evaluation<h3>
+<h3>Training and Evaluation</h3>
 Now that our network has been set up, we begin training the model by invoking the Aggregator's start_training() method.
 
 This could take some time, depending on your system specifications. Feel free to get your doze of coffee meanwhile ☕
