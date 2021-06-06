@@ -6,4 +6,4 @@ Setting up such a federated learning system requires setting up a communication 
 
 <h1>pre-Requisite<h1>
 
-<b>pip install --upgrade tensorflow-federated<b>
+<h6>pip install --upgrade tensorflow-federated<h6>
